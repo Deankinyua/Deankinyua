@@ -1,4 +1,4 @@
-## Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir, Typescript. I also help with cloud deployments and maintenance. Based in Nairobi, Kenya.
+Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir, Typescript. I also help with cloud deployments and maintenance. Based in Nairobi, Kenya.
 
 <!--
 **Deankinyua/Deankinyua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
