@@ -1,4 +1,5 @@
-Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir and Typescript. I am deep into Elixir, LiveView, Ash framework and Phoenix but I also help with cloud deployments and maintenance. Based in Nairobi, Kenya.
+Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir and Typescript. Deep into Elixir, LiveView, Ash framework and Phoenix but I also help with cloud deployments and maintenance. I am able to embed AI capabilities into web apps as well. Based in Nairobi, Kenya.
+
 
 <!--
 **Deankinyua/Deankinyua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
