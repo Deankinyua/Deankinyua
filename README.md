@@ -1,4 +1,4 @@
-Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir and JavaScript. Deep into Elixir, JavaScript, LiveView, Ash framework and Phoenix but I also help with cloud deployments and maintenance. I am able to embed AI capabilities into web apps as well. Based in Nairobi, Kenya.
+Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir and TypeScript. Deep into Elixir, TypeScript, LiveView, Ash framework and Phoenix. I also do AI intergrations (RAG and stuff)
 
 
 <!--
