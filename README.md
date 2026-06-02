@@ -1,4 +1,5 @@
-Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir and TypeScript. Deep into Elixir, TypeScript, LiveView, Ash framework and Phoenix. I also do AI intergrations (RAG and stuff)
+Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir and JavaScript. 
+I mainly do web apps with Elixir, JavaScript, LiveView, Phoenix, Ash and many more tools. I also do AI intergrations (RAG and stuff). Interested in Golang
 
 
 <!--
