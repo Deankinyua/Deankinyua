@@ -1,5 +1,6 @@
 Hi there 👋 I am Dean Kinyua, a full stack developer with expertise in Elixir and JavaScript. 
-I mainly do web apps with Elixir, JavaScript, LiveView, Phoenix, Ash and many more tools. I also do AI intergrations (RAG and stuff). Interested in Golang
+I mainly do web apps with Elixir, JavaScript, LiveView, Phoenix, Ash and many more tools. I also do AI intergrations (RAG and stuff). Interested in Golang and graph technologies (e.g Neo4j). 
+Fun fact😄: I've read 'The Strange Case of Dr.Jekyll and Mr.Hyde'
 
 
 <!--
